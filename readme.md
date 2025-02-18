@@ -11,8 +11,14 @@
             write the Loss Function ( RMSE )
         Using sckit-learn
             logistic regression (basically OLSE)
-            Calculated loss using RMSE
-            checked that from model.fit w and b actually fit the line on graph
+                Calculated loss using RMSE
+                checked that from model.fit w and b actually fit the line on graph
             Switched with SGDRegressor to see the output, using RMSE and Graph ( No change, even logistic regression worked fine )
+            Linear Regression with multiple features and computed loss error
+            Using Categorical features
+                Binary Categories
+                One Hot Encoding
+                Ordinals ( Didn't write code, not efficient value in dataset)
+            Standarization | Normalization
 
             
