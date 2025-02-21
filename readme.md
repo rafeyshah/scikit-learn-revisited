@@ -23,6 +23,7 @@
 
 02. Logistic Regression for Classification
     Things I learned in this
-     - EDA
+    - EDA
         Normalization, removing null values with respect to target and important features
         Uniform Distribution, Class imbalance
+    - Splitting Training set, Validation set, Test set 
