@@ -21,4 +21,8 @@
                 Ordinals ( Didn't write code, not efficient value in dataset)
             Standarization | Normalization
 
-            
+02. Logistic Regression for Classification
+    Things I learned in this
+     - EDA
+        Normalization, removing null values with respect to target and important features
+        Uniform Distribution, Class imbalance
