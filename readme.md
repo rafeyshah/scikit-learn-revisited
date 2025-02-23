@@ -31,3 +31,7 @@
         fixing categorical columns, one hot encoding
         normalization, removing null and afterwards applying min max scaling
         Saved processed data to disk (parquet)
+    - Logistic Regression
+        Applied logistic regression
+        Make confusion matrix
+        Saved the model
