@@ -30,4 +30,4 @@
         according to Date format 
         fixing categorical columns, one hot encoding
         normalization, removing null and afterwards applying min max scaling
-        
+        Saved processed data to disk (parquet)
