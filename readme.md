@@ -27,3 +27,7 @@
         Normalization, removing null values with respect to target and important features
         Uniform Distribution, Class imbalance
     - Splitting Training set, Validation set, Test set 
+        according to Date format 
+        fixing categorical columns, one hot encoding
+        normalization, removing null and afterwards applying min max scaling
+        
