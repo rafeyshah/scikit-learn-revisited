@@ -35,3 +35,10 @@
         Applied logistic regression
         Make confusion matrix
         Saved the model
+
+03. Deccision Trees and Random Forrest
+    Things I learned
+    - Splitting the dataset into training, validation and testing
+    - Imputing missing values and Scaling numerical features
+    - OneHotEncoding Numerical + Categorical Columns
+    - DecisionTreeClassifier
