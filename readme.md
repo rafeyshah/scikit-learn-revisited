@@ -38,7 +38,12 @@
 
 03. Deccision Trees and Random Forrest
     Things I learned
-    - Splitting the dataset into training, validation and testing
-    - Imputing missing values and Scaling numerical features
-    - OneHotEncoding Numerical + Categorical Columns
-    - DecisionTreeClassifier
+    - Decision Trees
+      - Splitting the dataset into training, validation and testing
+      - Imputing missing values and Scaling numerical features
+      - OneHotEncoding Numerical + Categorical Columns
+      - DecisionTreeClassifier
+      - Underfitting VS Overfitting
+      - How to handle Overfitting 
+        - Controlling HyperParameters ( Max Depth & Max Leaf Nodes )
+    - Random Forest
