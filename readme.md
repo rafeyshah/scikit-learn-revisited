@@ -47,3 +47,5 @@
       - How to handle Overfitting 
         - Controlling HyperParameters ( Max Depth & Max Leaf Nodes )
     - Random Forest
+      - Simple, Fine tuned and then ensemble method
+      - different CPUs to run parallel to make job faster
